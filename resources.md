@@ -4,7 +4,7 @@ This is a selection of resources that we thought would be useful sharing with th
 ## Math & Neuro
 ### General courses
 * [Janelia Math course](https://github.com/JaneliaMLCourse/MathClub/blob/master/README.md)
-* [Math for Neuroscience](https://www.cns.nyu.edu/~eero/math-tools/) - Eero Simoncelli's course
+* [Math for Neuroscience](https://youtube.com/playlist?list=PLhOZWeo463baxX56-Qnt3jiG6P76a4gis) - Eero Simoncelli's course
 
 ### Linear Algebra
 * [Linear Algebra notes](https://python-intro.quantecon.org/linear_algebra.html)
@@ -19,7 +19,7 @@ This is a selection of resources that we thought would be useful sharing with th
 * [Statistical thinking for the 21st century (2019)](https://statsthinking21.github.io/statsthinking21-core-site/) by R. Poldrack
 * [Stats for neuroimaging](https://learn-neuroimaging.github.io/tutorials-and-resources/statistics/)
 * [Probabilistic models of Cognition](https://probmods.org/)
-* [Tutorials for probabilistic programming](https://docs.pymc.io/nb_examples/index.html)
+* [Tutorials for probabilistic programming](https://www.pymc.io/projects/docs/en/stable/learn/core_notebooks/index.html#)
 
 ### Differential Equations
 * [Jiri Lebl's DiffyQs book](https://www.jirka.org/diffyqs/)
